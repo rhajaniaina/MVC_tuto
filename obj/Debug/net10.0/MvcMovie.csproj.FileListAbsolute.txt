@@ -95,3 +95,4 @@ C:\Users\hajan\sio2\MvcMovie\obj\Debug\net10.0\refint\MvcMovie.dll
 C:\Users\hajan\sio2\MvcMovie\obj\Debug\net10.0\MvcMovie.pdb
 C:\Users\hajan\sio2\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 C:\Users\hajan\sio2\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
+C:\Users\hajan\sio2\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
